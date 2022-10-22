@@ -1,0 +1,895 @@
+　　47 - Accepted 127.0.0.1:49779
+　　[5000] 16 Apr 01:02:47 - Client closed connection
+　　[5000] 16 Apr 01:02:47 - Accepted 127.0.0.1:49780
+　　[5000] 16 Apr 01:02:47 - Client closed connection
+　　[5000] 16 Apr 01:02:47 - Accepted 127.0.0.1:49781
+　　[5000] 16 Apr 01:02:47 - Client closed connection
+　　[5000] 16 Apr 01:02:47 - Accepted 127.0.0.1:49782
+　　[5000] 16 Apr 01:02:47 - Client closed connection
+　　[5000] 16 Apr 01:02:47 - Accepted 127.0.0.1:49783
+　　[5000] 16 Apr 01:02:47 - Client closed connection
+　　[5000] 16 Apr 01:02:47 - Accepted 127.0.0.1:49784
+　　[5000] 16 Apr 01:02:47 - Client closed connection
+　　[5000] 16 Apr 01:02:47 - Accepted 127.0.0.1:49785
+　　[5000] 16 Apr 01:02:47 - Client closed connection
+　　[5000] 16 Apr 01:02:47 - Accepted 127.0.0.1:49786
+　　[5000] 16 Apr 01:02:47 - Client closed connection
+　　[5000] 16 Apr 01:02:47 - Accepted 127.0.0.1:49787
+　　[5000] 16 Apr 01:02:47 - Client closed connection
+　　[5000] 16 Apr 01:02:47 - Accepted 127.0.0.1:49788
+　　[5000] 16 Apr 01:02:47 - Client closed connection
+　　[5000] 16 Apr 01:02:48 - Accepted 127.0.0.1:49789
+　　[5000] 16 Apr 01:02:48 - Client closed connection
+　　[5000] 16 Apr 01:02:48 - Accepted 127.0.0.1:49790
+　　[5000] 16 Apr 01:02:48 - Client closed connection
+　　[5000] 16 Apr 01:02:48 - Accepted 127.0.0.1:49791
+　　[5000] 16 Apr 01:02:48 - Client closed connection
+　　[5000] 16 Apr 01:02:48 - Accepted 127.0.0.1:49792
+　　[5000] 16 Apr 01:02:48 - Client closed connection
+　　[5000] 16 Apr 01:02:48 - Accepted 127.0.0.1:49793
+　　[5000] 16 Apr 01:02:48 - Client closed connection
+　　[5000] 16 Apr 01:02:48 - Accepted 127.0.0.1:49794
+　　[5000] 16 Apr 01:02:48 - Client closed connection
+　　[5000] 16 Apr 01:02:48 - Accepted 127.0.0.1:49795
+　　[5000] 16 Apr 01:02:48 - Client closed connection
+　　[5000] 16 Apr 01:02:48 - Accepted 127.0.0.1:49796
+　　[5000] 16 Apr 01:02:48 - Client closed connection
+　　[5000] 16 Apr 01:02:48 - Accepted 127.0.0.1:49797
+　　[5000] 16 Apr 01:02:48 - Client closed connection
+　　[5000] 16 Apr 01:02:48 - Accepted 127.0.0.1:49798
+　　[5000] 16 Apr 01:02:48 - Client closed connection
+　　[5000] 16 Apr 01:02:48 - Accepted 127.0.0.1:49799
+　　[5000] 16 Apr 01:02:48 - Client closed connection
+　　[5000] 16 Apr 01:02:48 - Accepted 127.0.0.1:49800
+　　[5000] 16 Apr 01:02:48 - Client closed connection
+　　[5000] 16 Apr 01:02:48 - Accepted 127.0.0.1:49801
+　　[5000] 16 Apr 01:02:48 - Accepted 127.0.0.1:49802
+　　[5000] 16 Apr 01:02:48 - Accepted 127.0.0.1:49803
+　　[5000] 16 Apr 01:02:48 - Client closed connection
+　　[5000] 16 Apr 01:02:48 - Client closed connection
+　　[5000] 16 Apr 01:02:48 - Accepted 127.0.0.1:49804
+　　[5000] 16 Apr 01:02:48 - Client closed connection
+　　[5000] 16 Apr 01:02:48 - Accepted 127.0.0.1:49805
+　　[5000] 16 Apr 01:02:48 - Client closed connection
+　　[5000] 16 Apr 01:02:49 - Accepted 127.0.0.1:49806
+　　[5000] 16 Apr 01:02:49 - Accepted 127.0.0.1:49807
+　　[5000] 16 Apr 01:02:49 - Client closed connection
+　　[5000] 16 Apr 01:02:49 - Client closed connection
+　　[5000] 16 Apr 01:02:49 - Client closed connection
+　　[5000] 16 Apr 01:02:49 - Accepted 127.0.0.1:49808
+　　[5000] 16 Apr 01:02:49 - Client closed connection
+　　[5000] 16 Apr 01:02:49 - Accepted 127.0.0.1:49809
+　　[5000] 16 Apr 01:02:49 - Client closed connection
+　　[5000] 16 Apr 01:02:49 - Accepted 127.0.0.1:49810
+　　[5000] 16 Apr 01:02:49 - Client closed connection
+　　[5000] 16 Apr 01:02:49 - Accepted 127.0.0.1:49811
+　　[5000] 16 Apr 01:02:49 - Client closed connection
+　　[5000] 16 Apr 01:02:49 - Accepted 127.0.0.1:49812
+　　[5000] 16 Apr 01:02:49 - Client closed connection
+　　[5000] 16 Apr 01:02:49 - Accepted 127.0.0.1:49813
+　　[5000] 16 Apr 01:02:49 - Client closed connection
+　　[5000] 16 Apr 01:02:49 - Accepted 127.0.0.1:49814
+　　[5000] 16 Apr 01:02:49 - Client closed connection
+　　[5000] 16 Apr 01:02:49 - Accepted 127.0.0.1:49815
+　　[5000] 16 Apr 01:02:49 - Client closed connection
+　　[5000] 16 Apr 01:02:49 - Accepted 127.0.0.1:49816
+　　[5000] 16 Apr 01:02:49 - Client closed connection
+　　[5000] 16 Apr 01:02:49 - Accepted 127.0.0.1:49817
+　　[5000] 16 Apr 01:02:49 - Client closed connection
+　　[5000] 16 Apr 01:02:49 - Accepted 127.0.0.1:49818
+　　[5000] 16 Apr 01:02:49 - Accepted 127.0.0.1:49819
+　　[5000] 16 Apr 01:02:49 - Client closed connection
+　　[5000] 16 Apr 01:02:49 - Client closed connection
+　　[5000] 16 Apr 01:02:49 - Accepted 127.0.0.1:49820
+　　[5000] 16 Apr 01:02:49 - Client closed connection
+　　[5000] 16 Apr 01:02:49 - Accepted 127.0.0.1:49821
+　　[5000] 16 Apr 01:02:49 - Client closed connection
+　　[5000] 16 Apr 01:02:50 - Accepted 127.0.0.1:49822
+　　[5000] 16 Apr 01:02:50 - Accepted 127.0.0.1:49823
+　　[5000] 16 Apr 01:02:50 - Client closed connection
+　　[5000] 16 Apr 01:02:50 - Client closed connection
+　　[5000] 16 Apr 01:02:50 - Accepted 127.0.0.1:49824
+　　[5000] 16 Apr 01:02:50 - Client closed connection
+　　[5000] 16 Apr 01:02:50 - Accepted 127.0.0.1:49825
+　　[5000] 16 Apr 01:02:50 - Client closed connection
+　　[5000] 16 Apr 01:02:50 - Accepted 127.0.0.1:49826
+　　[5000] 16 Apr 01:02:50 - Client closed connection
+　　[5000] 16 Apr 01:02:50 - Accepted 127.0.0.1:49827
+　　[5000] 16 Apr 01:02:50 - Client closed connection
+　　[5000] 16 Apr 01:02:50 - Accepted 127.0.0.1:49828
+　　[5000] 16 Apr 01:02:50 - Client closed connection
+　　[5000] 16 Apr 01:02:50 - Accepted 127.0.0.1:49829
+　　[5000] 16 Apr 01:02:50 - Client closed connection
+　　[5000] 16 Apr 01:02:50 - Accepted 127.0.0.1:49830
+　　[5000] 16 Apr 01:02:50 - Client closed connection
+　　[5000] 16 Apr 01:02:50 - Accepted 127.0.0.1:49831
+　　[5000] 16 Apr 01:02:50 - Client closed connection
+　　[5000] 16 Apr 01:02:50 - Accepted 127.0.0.1:49832
+　　[5000] 16 Apr 01:02:50 - Client closed connection
+　　[5000] 16 Apr 01:02:50 - Accepted 127.0.0.1:49833
+　　[5000] 16 Apr 01:02:50 - Client closed connection
+　　[5000] 16 Apr 01:02:50 - Accepted 127.0.0.1:49834
+　　[5000] 16 Apr 01:02:50 - Client closed connection
+　　[5000] 16 Apr 01:02:50 - Accepted 127.0.0.1:49835
+　　[5000] 16 Apr 01:02:50 - Accepted 127.0.0.1:49836
+　　[5000] 16 Apr 01:02:50 - Client closed connection
+　　[5000] 16 Apr 01:02:50 - Accepted 127.0.0.1:49837
+　　[5000] 16 Apr 01:02:50 - Client closed connection
+　　[5000] 16 Apr 01:02:50 - Accepted 127.0.0.1:49838
+　　[5000] 16 Apr 01:02:50 - Client closed connection
+　　[5000] 16 Apr 01:02:50 - Accepted 127.0.0.1:49839
+　　[5000] 16 Apr 01:02:50 - Client closed connection
+　　[5000] 16 Apr 01:02:50 - Accepted 127.0.0.1:49840
+　　[5000] 16 Apr 01:02:50 - Client closed connection
+　　[5000] 16 Apr 01:02:50 - Client closed connection
+　　[5000] 16 Apr 01:02:50 - Accepted 127.0.0.1:49841
+　　[5000] 16 Apr 01:02:50 - Client closed connection
+　　[5000] 16 Apr 01:02:50 - Accepted 127.0.0.1:49842
+　　[5000] 16 Apr 01:02:50 - Client closed connection
+　　[5000] 16 Apr 01:02:50 - Accepted 127.0.0.1:49843
+　　[5000] 16 Apr 01:02:50 - Client closed connection
+　　[5000] 16 Apr 01:02:50 - Accepted 127.0.0.1:49844
+　　[5000] 16 Apr 01:02:51 - Client closed connection
+　　[5000] 16 Apr 01:02:51 - Accepted 127.0.0.1:49845
+　　[5000] 16 Apr 01:02:51 - Client closed connection
+　　[5000] 16 Apr 01:02:51 - Accepted 127.0.0.1:49846
+　　[5000] 16 Apr 01:02:51 - Client closed connection
+　　[5000] 16 Apr 01:02:51 - Accepted 127.0.0.1:49847
+　　[5000] 16 Apr 01:02:51 - Client closed connection
+　　[5000] 16 Apr 01:02:51 - Accepted 127.0.0.1:49848
+　　[5000] 16 Apr 01:02:51 - Client closed connection
+　　[5000] 16 Apr 01:02:51 - Accepted 127.0.0.1:49849
+　　[5000] 16 Apr 01:02:51 - Accepted 127.0.0.1:49850
+　　[5000] 16 Apr 01:02:51 - Client closed connection
+　　[5000] 16 Apr 01:02:51 - Client closed connection
+　　[5000] 16 Apr 01:02:51 - Accepted 127.0.0.1:49851
+　　[5000] 16 Apr 01:02:51 - Client closed connection
+　　[5000] 16 Apr 01:02:51 - Accepted 127.0.0.1:49852
+　　[5000] 16 Apr 01:02:51 - Client closed connection
+　　[5000] 16 Apr 01:02:51 - Accepted 127.0.0.1:49853
+　　[5000] 16 Apr 01:02:51 - Client closed connection
+　　[5000] 16 Apr 01:02:51 - Accepted 127.0.0.1:49854
+　　[5000] 16 Apr 01:02:51 - Client closed connection
+　　[5000] 16 Apr 01:02:51 - Accepted 127.0.0.1:49855
+　　[5000] 16 Apr 01:02:51 - Client closed connection
+　　[5000] 16 Apr 01:02:51 - Accepted 127.0.0.1:49856
+　　[5000] 16 Apr 01:02:51 - Client closed connection
+　　[5000] 16 Apr 01:02:51 - Accepted 127.0.0.1:49857
+　　[5000] 16 Apr 01:02:51 - Accepted 127.0.0.1:49858
+　　[5000] 16 Apr 01:02:51 - Accepted 127.0.0.1:49859
+　　[5000] 16 Apr 01:02:51 - Accepted 127.0.0.1:49860
+　　[5000] 16 Apr 01:02:51 - Accepted 127.0.0.1:49861
+　　[5000] 16 Apr 01:02:51 - Client closed connection
+　　[5000] 16 Apr 01:02:51 - Accepted 127.0.0.1:49862
+　　[5000] 16 Apr 01:02:51 - Client closed connection
+　　[5000] 16 Apr 01:02:51 - Client closed connection
+　　[5000] 16 Apr 01:02:51 - Client closed connection
+　　[5000] 16 Apr 01:02:51 - Client closed connection
+　　[5000] 16 Apr 01:02:51 - Accepted 127.0.0.1:49863
+　　[5000] 16 Apr 01:02:51 - Accepted 127.0.0.1:49864
+　　[5000] 16 Apr 01:02:51 - Client closed connection
+　　[5000] 16 Apr 01:02:51 - Accepted 127.0.0.1:49865
+　　[5000] 16 Apr 01:02:51 - Client closed connection
+　　[5000] 16 Apr 01:02:51 - Client closed connection
+　　[5000] 16 Apr 01:02:51 - Client closed connection
+　　[5000] 16 Apr 01:02:51 - Accepted 127.0.0.1:49866
+　　[5000] 16 Apr 01:02:51 - Client closed connection
+　　[5000] 16 Apr 01:02:51 - Accepted 127.0.0.1:49867
+　　[5000] 16 Apr 01:02:51 - Client closed connection
+　　[5000] 16 Apr 01:02:51 - Accepted 127.0.0.1:49868
+　　[5000] 16 Apr 01:02:51 - Client closed connection
+　　[5000] 16 Apr 01:02:51 - Accepted 127.0.0.1:49869
+　　[5000] 16 Apr 01:02:51 - Client closed connection
+　　[5000] 16 Apr 01:02:51 - Accepted 127.0.0.1:49870
+　　[5000] 16 Apr 01:02:51 - Client closed connection
+　　[5000] 16 Apr 01:02:51 - Accepted 127.0.0.1:49871
+　　[5000] 16 Apr 01:02:51 - Client closed connection
+　　[5000] 16 Apr 01:02:51 - Accepted 127.0.0.1:49872
+　　[5000] 16 Apr 01:02:51 - Client closed connection
+　　[5000] 16 Apr 01:02:51 - Accepted 127.0.0.1:49873
+　　[5000] 16 Apr 01:02:51 - Client closed connection
+　　[5000] 16 Apr 01:02:51 - Accepted 127.0.0.1:49874
+　　[5000] 16 Apr 01:02:51 - Client closed connection
+　　[5000] 16 Apr 01:02:51 - Accepted 127.0.0.1:49875
+　　[5000] 16 Apr 01:02:51 - Client closed connection
+　　[5000] 16 Apr 01:02:52 - DB 0: 974420 keys (17963 volatile) in 1048576 slots HT.
+　　[5000] 16 Apr 01:02:52 - 0 clients connected (0 slaves), 896869864 bytes in use
+　　[5000] 16 Apr 01:02:52 - Accepted 127.0.0.1:49876
+　　[5000] 16 Apr 01:02:52 - Client closed connection
+　　[5000] 16 Apr 01:02:52 - Accepted 127.0.0.1:49877
+　　[5000] 16 Apr 01:02:52 - Client closed connection
+　　[5000] 16 Apr 01:02:52 - Accepted 127.0.0.1:49878
+　　[5000] 16 Apr 01:02:52 - Client closed connection
+　　[5000] 16 Apr 01:02:52 - Accepted 127.0.0.1:49879
+　　[5000] 16 Apr 01:02:52 - Client closed connection
+　　[5000] 16 Apr 01:02:52 - Accepted 127.0.0.1:49880
+　　[5000] 16 Apr 01:02:52 - Client closed connection
+　　[5000] 16 Apr 01:02:52 - Accepted 127.0.0.1:49881
+　　[5000] 16 Apr 01:02:52 - Client closed connection
+　　[5000] 16 Apr 01:02:52 - Accepted 127.0.0.1:49882
+　　[5000] 16 Apr 01:02:52 - Client closed connection
+　　[5000] 16 Apr 01:02:52 - Accepted 127.0.0.1:49883
+　　[5000] 16 Apr 01:02:52 - Client closed connection
+　　[5000] 16 Apr 01:02:52 - Accepted 127.0.0.1:49884
+　　[5000] 16 Apr 01:02:52 - Client closed connection
+　　[5000] 16 Apr 01:02:52 - Accepted 127.0.0.1:49885
+　　[5000] 16 Apr 01:02:52 - Client closed connection
+　　[5000] 16 Apr 01:02:52 - Accepted 127.0.0.1:49886
+　　[5000] 16 Apr 01:02:52 - Client closed connection
+　　[5000] 16 Apr 01:02:53 - Accepted 127.0.0.1:49887
+　　[5000] 16 Apr 01:02:53 - Client closed connection
+　　[5000] 16 Apr 01:02:53 - Accepted 127.0.0.1:49888
+　　[5000] 16 Apr 01:02:53 - Client closed connection
+　　[5000] 16 Apr 01:02:53 - Accepted 127.0.0.1:49889
+　　[5000] 16 Apr 01:02:53 - Client closed connection
+　　[5000] 16 Apr 01:02:53 - Accepted 127.0.0.1:49890
+　　[5000] 16 Apr 01:02:53 - Accepted 127.0.0.1:49891
+　　[5000] 16 Apr 01:02:53 - Client closed connection
+　　[5000] 16 Apr 01:02:53 - Accepted 127.0.0.1:49892
+　　[5000] 16 Apr 01:02:53 - Client closed connection
+　　[5000] 16 Apr 01:02:53 - Accepted 127.0.0.1:49893
+　　[5000] 16 Apr 01:02:53 - Client closed connection
+　　[5000] 16 Apr 01:02:53 - Client closed connection
+　　[5000] 16 Apr 01:02:53 - Accepted 127.0.0.1:49894
+　　[5000] 16 Apr 01:02:53 - Accepted 127.0.0.1:49895
+　　[5000] 16 Apr 01:02:53 - Accepted 127.0.0.1:49896
+　　[5000] 16 Apr 01:02:53 - Client closed connection
+　　[5000] 16 Apr 01:02:53 - Client closed connection
+　　[5000] 16 Apr 01:02:53 - Client closed connection
+　　[5000] 16 Apr 01:02:53 - Accepted 127.0.0.1:49897
+　　[5000] 16 Apr 01:02:53 - Client closed connection
+　　[5000] 16 Apr 01:02:53 - Accepted 127.0.0.1:49898
+　　[5000] 16 Apr 01:02:53 - Client closed connection
+　　[5000] 16 Apr 01:02:54 - Accepted 127.0.0.1:49899
+　　[5000] 16 Apr 01:02:54 - Client closed connection
+　　[5000] 16 Apr 01:02:54 - Accepted 127.0.0.1:49900
+　　[5000] 16 Apr 01:02:54 - Client closed connection
+　　[5000] 16 Apr 01:02:54 - Accepted 127.0.0.1:49901
+　　[5000] 16 Apr 01:02:54 - Client closed connection
+　　[5000] 16 Apr 01:02:54 - Accepted 127.0.0.1:49902
+　　[5000] 16 Apr 01:02:54 - Client closed connection
+　　[5000] 16 Apr 01:02:54 - Accepted 127.0.0.1:49903
+　　[5000] 16 Apr 01:02:54 - Client closed connection
+　　[5000] 16 Apr 01:02:54 - Accepted 127.0.0.1:49904
+　　[5000] 16 Apr 01:02:54 - Client closed connection
+　　[5000] 16 Apr 01:02:54 - Accepted 127.0.0.1:49906
+　　[5000] 16 Apr 01:02:55 - Accepted 127.0.0.1:49907
+　　[5000] 16 Apr 01:02:55 - Client closed connection
+　　[5000] 16 Apr 01:02:55 - Accepted 127.0.0.1:49908
+　　[5000] 16 Apr 01:02:55 - Client closed connection
+　　[5000] 16 Apr 01:02:55 - Client closed connection
+　　[5000] 16 Apr 01:02:55 - Accepted 127.0.0.1:49909
+　　[5000] 16 Apr 01:02:55 - Client closed connection
+　　[5000] 16 Apr 01:02:55 - Accepted 127.0.0.1:49910
+　　[5000] 16 Apr 01:02:55 - Client closed connection
+　　[5000] 16 Apr 01:02:55 - Accepted 127.0.0.1:49911
+　　[5000] 16 Apr 01:02:55 - Client closed connection
+　　[5000] 16 Apr 01:02:55 - Accepted 127.0.0.1:49912
+　　[5000] 16 Apr 01:02:55 - Client closed connection
+　　[5000] 16 Apr 01:02:55 - Accepted 127.0.0.1:49913
+　　[5000] 16 Apr 01:02:55 - Client closed connection
+　　[5000] 16 Apr 01:02:55 - Accepted 127.0.0.1:49914
+　　[5000] 16 Apr 01:02:55 - Client closed connection
+　　[5000] 16 Apr 01:02:55 - Accepted 127.0.0.1:49915
+　　[5000] 16 Apr 01:02:55 - Client closed connection
+　　[5000] 16 Apr 01:02:55 - Accepted 127.0.0.1:49916
+　　[5000] 16 Apr 01:02:55 - Client closed connection
+　　[5000] 16 Apr 01:02:55 - Accepted 127.0.0.1:49917
+　　[5000] 16 Apr 01:02:55 - Client closed connection
+　　[5000] 16 Apr 01:02:55 - Accepted 127.0.0.1:49918
+　　[5000] 16 Apr 01:02:55 - Client closed connection
+　　[5000] 16 Apr 01:02:55 - Accepted 127.0.0.1:49919
+　　[5000] 16 Apr 01:02:55 - Client closed connection
+　　[5000] 16 Apr 01:02:55 - Accepted 127.0.0.1:49920
+　　[5000] 16 Apr 01:02:55 - Client closed connection
+　　[5000] 16 Apr 01:02:55 - Accepted 127.0.0.1:49921
+　　[5000] 16 Apr 01:02:55 - Accepted 127.0.0.1:49922
+　　[5000] 16 Apr 01:02:55 - Client closed connection
+　　[5000] 16 Apr 01:02:55 - Accepted 127.0.0.1:49923
+　　[5000] 16 Apr 01:02:55 - Client closed connection
+　　[5000] 16 Apr 01:02:55 - Client closed connection
+　　[5000] 16 Apr 01:02:55 - Accepted 127.0.0.1:49924
+　　[5000] 16 Apr 01:02:55 - Client closed connection
+　　[5000] 16 Apr 01:02:55 - Accepted 127.0.0.1:49925
+　　[5000] 16 Apr 01:02:55 - Client closed connection
+　　[5000] 16 Apr 01:02:55 - Accepted 127.0.0.1:49926
+　　[5000] 16 Apr 01:02:55 - Client closed connection
+　　[5000] 16 Apr 01:02:55 - Accepted 127.0.0.1:49927
+　　[5000] 16 Apr 01:02:55 - Client closed connection
+　　[5000] 16 Apr 01:02:55 - Accepted 127.0.0.1:49928
+　　[5000] 16 Apr 01:02:55 - Client closed connection
+　　[5000] 16 Apr 01:02:55 - Accepted 127.0.0.1:49929
+　　[5000] 16 Apr 01:02:55 - Client closed connection
+　　[5000] 16 Apr 01:02:55 - Accepted 127.0.0.1:49930
+　　[5000] 16 Apr 01:02:55 - Client closed connection
+　　[5000] 16 Apr 01:02:55 - Accepted 127.0.0.1:49931
+　　[5000] 16 Apr 01:02:55 - Client closed connection
+　　[5000] 16 Apr 01:02:55 - Accepted 127.0.0.1:49932
+　　[5000] 16 Apr 01:02:55 - Client closed connection
+　　[5000] 16 Apr 01:02:55 - Accepted 127.0.0.1:49933
+　　[5000] 16 Apr 01:02:55 - Client closed connection
+　　[5000] 16 Apr 01:02:55 - Accepted 127.0.0.1:49934
+　　[5000] 16 Apr 01:02:55 - Accepted 127.0.0.1:49935
+　　[5000] 16 Apr 01:02:55 - Client closed connection
+　　[5000] 16 Apr 01:02:55 - Client closed connection
+　　[5000] 16 Apr 01:02:55 - Accepted 127.0.0.1:49936
+　　[5000] 16 Apr 01:02:55 - Client closed connection
+　　[5000] 16 Apr 01:02:55 - Accepted 127.0.0.1:49937
+　　[5000] 16 Apr 01:02:55 - Client closed connection
+　　[5000] 16 Apr 01:02:55 - Accepted 127.0.0.1:49938
+　　[5000] 16 Apr 01:02:55 - Client closed connection
+　　[5000] 16 Apr 01:02:55 - Accepted 127.0.0.1:49939
+　　[5000] 16 Apr 01:02:55 - Client closed connection
+　　[5000] 16 Apr 01:02:55 - Accepted 127.0.0.1:49940
+　　[5000] 16 Apr 01:02:55 - Client closed connection
+　　[5000] 16 Apr 01:02:55 - Accepted 127.0.0.1:49941
+　　[5000] 16 Apr 01:02:55 - Client closed connection
+　　[5000] 16 Apr 01:02:56 - Accepted 127.0.0.1:49942
+　　[5000] 16 Apr 01:02:56 - Accepted 127.0.0.1:49943
+　　[5000] 16 Apr 01:02:56 - Client closed connection
+　　[5000] 16 Apr 01:02:56 - Accepted 127.0.0.1:49944
+　　[5000] 16 Apr 01:02:56 - Client closed connection
+　　[5000] 16 Apr 01:02:56 - Accepted 127.0.0.1:49945
+　　[5000] 16 Apr 01:02:56 - Client closed connection
+　　[5000] 16 Apr 01:02:56 - Accepted 127.0.0.1:49946
+　　[5000] 16 Apr 01:02:56 - Client closed connection
+　　[5000] 16 Apr 01:02:56 - Client closed connection
+　　[5000] 16 Apr 01:02:56 - Accepted 127.0.0.1:49947
+　　[5000] 16 Apr 01:02:56 - Client closed connection
+　　[5000] 16 Apr 01:02:56 - Accepted 127.0.0.1:49948
+　　[5000] 16 Apr 01:02:56 - Accepted 127.0.0.1:49949
+　　[5000] 16 Apr 01:02:56 - Client closed connection
+　　[5000] 16 Apr 01:02:56 - Client closed connection
+　　[5000] 16 Apr 01:02:56 - Accepted 127.0.0.1:49950
+　　[5000] 16 Apr 01:02:56 - Client closed connection
+　　[5000] 16 Apr 01:02:56 - Accepted 127.0.0.1:49952
+　　[5000] 16 Apr 01:02:56 - Client closed connection
+　　[5000] 16 Apr 01:02:56 - Accepted 127.0.0.1:49953
+　　[5000] 16 Apr 01:02:56 - Client closed connection
+　　[5000] 16 Apr 01:02:56 - Accepted 127.0.0.1:49954
+　　[5000] 16 Apr 01:02:56 - Client closed connection
+　　[5000] 16 Apr 01:02:57 - DB 0: 974420 keys (17962 volatile) in 1048576 slots HT.
+　　[5000] 16 Apr 01:02:57 - 0 clients connected (0 slaves), 896766936 bytes in use
+　　[5000] 16 Apr 01:02:57 - Accepted 127.0.0.1:49955
+　　[5000] 16 Apr 01:02:57 - Client closed connection
+　　[5000] 16 Apr 01:02:57 - Accepted 127.0.0.1:49956
+　　[5000] 16 Apr 01:02:57 - Accepted 127.0.0.1:49957
+　　[5000] 16 Apr 01:02:57 - Accepted 127.0.0.1:49958
+　　[5000] 16 Apr 01:02:57 - Accepted 127.0.0.1:49959
+　　[5000] 16 Apr 01:02:57 - Accepted 127.0.0.1:49960
+　　[5000] 16 Apr 01:02:57 - Accepted 127.0.0.1:49961
+　　[5000] 16 Apr 01:02:57 - Client closed connection
+　　[5000] 16 Apr 01:02:57 - Client closed connection
+　　[5000] 16 Apr 01:02:57 - Accepted 127.0.0.1:49962
+　　[5000] 16 Apr 01:02:57 - Client closed connection
+　　[5000] 16 Apr 01:02:57 - Client closed connection
+　　[5000] 16 Apr 01:02:57 - Accepted 127.0.0.1:49963
+　　[5000] 16 Apr 01:02:57 - Client closed connection
+　　[5000] 16 Apr 01:02:57 - Client closed connection
+　　[5000] 16 Apr 01:02:57 - Client closed connection
+　　[5000] 16 Apr 01:02:57 - Accepted 127.0.0.1:49964
+　　[5000] 16 Apr 01:02:57 - Client closed connection
+　　[5000] 16 Apr 01:02:57 - Accepted 127.0.0.1:49965
+　　[5000] 16 Apr 01:02:57 - Accepted 127.0.0.1:49966
+　　[5000] 16 Apr 01:02:57 - Accepted 127.0.0.1:49967
+　　[5000] 16 Apr 01:02:57 - Accepted 127.0.0.1:49968
+　　[5000] 16 Apr 01:02:57 - Client closed connection
+　　[5000] 16 Apr 01:02:57 - Client closed connection
+　　[5000] 16 Apr 01:02:57 - Client closed connection
+　　[5000] 16 Apr 01:02:57 - Client closed connection
+　　[5000] 16 Apr 01:02:57 - Client closed connection
+　　[5000] 16 Apr 01:02:57 - Accepted 127.0.0.1:49969
+　　[5000] 16 Apr 01:02:57 - Client closed connection
+　　[5000] 16 Apr 01:02:57 - Accepted 127.0.0.1:49970
+　　[5000] 16 Apr 01:02:57 - Client closed connection
+　　[5000] 16 Apr 01:02:57 - Accepted 127.0.0.1:49971
+　　[5000] 16 Apr 01:02:57 - Client closed connection
+　　[5000] 16 Apr 01:02:57 - Accepted 127.0.0.1:49972
+　　[5000] 16 Apr 01:02:57 - Client closed connection
+　　[5000] 16 Apr 01:02:57 - Accepted 127.0.0.1:49973
+　　[5000] 16 Apr 01:02:57 - Client closed connection
+　　[5000] 16 Apr 01:02:57 - Accepted 127.0.0.1:49974
+　　[5000] 16 Apr 01:02:57 - Client closed connection
+　　[5000] 16 Apr 01:02:57 - Accepted 127.0.0.1:49975
+　　[5000] 16 Apr 01:02:57 - Accepted 127.0.0.1:49976
+　　[5000] 16 Apr 01:02:57 - Accepted 127.0.0.1:49977
+　　[5000] 16 Apr 01:02:57 - Accepted 127.0.0.1:49978
+　　[5000] 16 Apr 01:02:57 - Client closed connection
+　　[5000] 16 Apr 01:02:57 - Client closed connection
+　　[5000] 16 Apr 01:02:57 - Client closed connection
+　　[5000] 16 Apr 01:02:57 - Client closed connection
+　　[5000] 16 Apr 01:02:57 - Accepted 127.0.0.1:49979
+　　[5000] 16 Apr 01:02:57 - Client closed connection
+　　[5000] 16 Apr 01:02:57 - Accepted 127.0.0.1:49980
+　　[5000] 16 Apr 01:02:57 - Client closed connection
+　　[5000] 16 Apr 01:02:57 - Accepted 127.0.0.1:49981
+　　[5000] 16 Apr 01:02:57 - Client closed connection
+　　[5000] 16 Apr 01:02:57 - Accepted 127.0.0.1:49983
+　　[5000] 16 Apr 01:02:57 - Client closed connection
+　　[5000] 16 Apr 01:02:57 - Accepted 127.0.0.1:49984
+　　[5000] 16 Apr 01:02:57 - Accepted 127.0.0.1:49985
+　　[5000] 16 Apr 01:02:57 - Client closed connection
+　　[5000] 16 Apr 01:02:57 - Client closed connection
+　　[5000] 16 Apr 01:02:57 - Accepted 127.0.0.1:49986
+　　[5000] 16 Apr 01:02:57 - Client closed connection
+　　[5000] 16 Apr 01:02:58 - Accepted 127.0.0.1:49987
+　　[5000] 16 Apr 01:02:58 - Client closed connection
+　　[5000] 16 Apr 01:02:58 - Accepted 127.0.0.1:49988
+　　[5000] 16 Apr 01:02:58 - Client closed connection
+　　[5000] 16 Apr 01:02:58 - Accepted 127.0.0.1:49989
+　　[5000] 16 Apr 01:02:58 - Client closed connection
+　　[5000] 16 Apr 01:02:58 - Accepted 127.0.0.1:49990
+　　[5000] 16 Apr 01:02:58 - Client closed connection
+　　[5000] 16 Apr 01:02:58 - Accepted 127.0.0.1:49991
+　　[5000] 16 Apr 01:02:58 - Client closed connection
+　　[5000] 16 Apr 01:02:58 - Accepted 127.0.0.1:49992
+　　[5000] 16 Apr 01:02:58 - Client closed connection
+　　[5000] 16 Apr 01:02:58 - Accepted 127.0.0.1:49993
+　　[5000] 16 Apr 01:02:58 - Client closed connection
+　　[5000] 16 Apr 01:02:58 - Accepted 127.0.0.1:49994
+　　[5000] 16 Apr 01:02:58 - Client closed connection
+　　[5000] 16 Apr 01:02:58 - Accepted 127.0.0.1:49995
+　　[5000] 16 Apr 01:02:58 - Client closed connection
+　　[5000] 16 Apr 01:02:58 - Accepted 127.0.0.1:49996
+　　[5000] 16 Apr 01:02:58 - Client closed connection
+　　[5000] 16 Apr 01:02:58 - Accepted 127.0.0.1:49997
+　　[5000] 16 Apr 01:02:58 - Client closed connection
+　　[5000] 16 Apr 01:02:58 - Accepted 127.0.0.1:49998
+　　[5000] 16 Apr 01:02:58 - Client closed connection
+　　[5000] 16 Apr 01:02:58 - Accepted 127.0.0.1:49999
+　　[5000] 16 Apr 01:02:58 - Client closed connection
+　　[5000] 16 Apr 01:02:58 - Accepted 127.0.0.1:50000
+　　[5000] 16 Apr 01:02:58 - Client closed connection
+　　[5000] 16 Apr 01:02:58 - Accepted 127.0.0.1:50001
+　　[5000] 16 Apr 01:02:58 - Client closed connection
+　　[5000] 16 Apr 01:02:58 - Accepted 127.0.0.1:50002
+　　[5000] 16 Apr 01:02:58 - Client closed connection
+　　[5000] 16 Apr 01:02:58 - Accepted 127.0.0.1:50003
+　　[5000] 16 Apr 01:02:58 - Client closed connection
+　　[5000] 16 Apr 01:02:58 - Accepted 127.0.0.1:50004
+　　[5000] 16 Apr 01:02:58 - Client closed connection
+　　[5000] 16 Apr 01:02:58 - Accepted 127.0.0.1:50005
+　　[5000] 16 Apr 01:02:58 - Accepted 127.0.0.1:50006
+　　[5000] 16 Apr 01:02:58 - Client closed connection
+　　[5000] 16 Apr 01:02:58 - Client closed connection
+　　[5000] 16 Apr 01:02:58 - Accepted 127.0.0.1:50007
+　　[5000] 16 Apr 01:02:58 - Client closed connection
+　　[5000] 16 Apr 01:02:58 - Accepted 127.0.0.1:50008
+　　[5000] 16 Apr 01:02:58 - Client closed connection
+　　[5000] 16 Apr 01:02:58 - Accepted 127.0.0.1:50009
+　　[5000] 16 Apr 01:02:58 - Client closed connection
+　　[5000] 16 Apr 01:02:59 - Accepted 127.0.0.1:50010
+　　[5000] 16 Apr 01:02:59 - Client closed connection
+　　[5000] 16 Apr 01:02:59 - Accepted 127.0.0.1:50011
+　　[5000] 16 Apr 01:02:59 - Client closed connection
+　　[5000] 16 Apr 01:02:59 - Accepted 127.0.0.1:50012
+　　[5000] 16 Apr 01:02:59 - Client closed connection
+　　[5000] 16 Apr 01:02:59 - Accepted 127.0.0.1:50013
+　　[5000] 16 Apr 01:02:59 - Client closed connection
+　　[5000] 16 Apr 01:02:59 - Accepted 127.0.0.1:50014
+　　[5000] 16 Apr 01:02:59 - Client closed connection
+　　[5000] 16 Apr 01:02:59 - Accepted 127.0.0.1:50015
+　　[5000] 16 Apr 01:02:59 - Client closed connection
+　　[5000] 16 Apr 01:02:59 - Accepted 127.0.0.1:50016
+　　[5000] 16 Apr 01:02:59 - Client closed connection
+　　[5000] 16 Apr 01:02:59 - Accepted 127.0.0.1:50017
+　　[5000] 16 Apr 01:02:59 - Client closed connection
+　　[5000] 16 Apr 01:02:59 - Accepted 127.0.0.1:50018
+　　[5000] 16 Apr 01:02:59 - Client closed connection
+　　[5000] 16 Apr 01:02:59 - Accepted 127.0.0.1:50019
+　　[5000] 16 Apr 01:02:59 - Client closed connection
+　　[5000] 16 Apr 01:02:59 - Accepted 127.0.0.1:50020
+　　[5000] 16 Apr 01:02:59 - Client closed connection
+　　[5000] 16 Apr 01:02:59 - Accepted 127.0.0.1:50021
+　　[5000] 16 Apr 01:02:59 - Client closed connection
+　　[5000] 16 Apr 01:02:59 - Accepted 127.0.0.1:50022
+　　[5000] 16 Apr 01:02:59 - Client closed connection
+　　[5000] 16 Apr 01:02:59 - Accepted 127.0.0.1:50023
+　　[5000] 16 Apr 01:02:59 - Client closed connection
+　　[5000] 16 Apr 01:02:59 - Accepted 127.0.0.1:50024
+　　[5000] 16 Apr 01:02:59 - Client closed connection
+　　[5000] 16 Apr 01:02:59 - Accepted 127.0.0.1:50025
+　　[5000] 16 Apr 01:02:59 - Client closed connection
+　　[5000] 16 Apr 01:02:59 - Accepted 127.0.0.1:50026
+　　[5000] 16 Apr 01:02:59 - Client closed connection
+　　[5000] 16 Apr 01:02:59 - Accepted 127.0.0.1:50027
+　　[5000] 16 Apr 01:02:59 - Client closed connection
+　　[5000] 16 Apr 01:02:59 - Accepted 127.0.0.1:50028
+　　[5000] 16 Apr 01:02:59 - Client closed connection
+　　[5000] 16 Apr 01:02:59 - Accepted 127.0.0.1:50029
+　　[5000] 16 Apr 01:02:59 - Client closed connection
+　　[5000] 16 Apr 01:02:59 - Accepted 127.0.0.1:50030
+　　[5000] 16 Apr 01:02:59 - Client closed connection
+　　[5000] 16 Apr 01:02:59 - Accepted 127.0.0.1:50031
+　　[5000] 16 Apr 01:02:59 - Client closed connection
+　　[5000] 16 Apr 01:03:00 - Accepted 127.0.0.1:50032
+　　[5000] 16 Apr 01:03:00 - Client closed connection
+　　[5000] 16 Apr 01:03:00 - Accepted 127.0.0.1:50033
+　　[5000] 16 Apr 01:03:00 - Client closed connection
+　　[5000] 16 Apr 01:03:00 - Accepted 127.0.0.1:50034
+　　[5000] 16 Apr 01:03:00 - Client closed connection
+　　[5000] 16 Apr 01:03:00 - Accepted 127.0.0.1:50035
+　　[5000] 16 Apr 01:03:00 - Client closed connection
+　　[5000] 16 Apr 01:03:00 - Accepted 127.0.0.1:50036
+　　[5000] 16 Apr 01:03:00 - Client closed connection
+　　[5000] 16 Apr 01:03:00 - Accepted 127.0.0.1:50037
+　　[5000] 16 Apr 01:03:00 - Client closed connection
+　　[5000] 16 Apr 01:03:00 - Accepted 127.0.0.1:50038
+　　[5000] 16 Apr 01:03:00 - Client closed connection
+　　[5000] 16 Apr 01:03:00 - Accepted 127.0.0.1:50039
+　　[5000] 16 Apr 01:03:00 - Client closed connection
+　　[5000] 16 Apr 01:03:00 - Accepted 127.0.0.1:50040
+　　[5000] 16 Apr 01:03:00 - Client closed connection
+　　[5000] 16 Apr 01:03:00 - Accepted 127.0.0.1:50041
+　　[5000] 16 Apr 01:03:00 - Client closed connection
+　　[5000] 16 Apr 01:03:00 - Accepted 127.0.0.1:50042
+　　[5000] 16 Apr 01:03:00 - Client closed connection
+　　[5000] 16 Apr 01:03:00 - Accepted 127.0.0.1:50043
+　　[5000] 16 Apr 01:03:00 - Client closed connection
+　　[5000] 16 Apr 01:03:00 - Accepted 127.0.0.1:50044
+　　[5000] 16 Apr 01:03:00 - Client closed connection
+　　[5000] 16 Apr 01:03:00 - Accepted 127.0.0.1:50045
+　　[5000] 16 Apr 01:03:00 - Client closed connection
+　　[5000] 16 Apr 01:03:00 - Accepted 127.0.0.1:50046
+　　[5000] 16 Apr 01:03:00 - Client closed connection
+　　[5000] 16 Apr 01:03:00 - Accepted 127.0.0.1:50047
+　　[5000] 16 Apr 01:03:00 - Client closed connection
+　　[5000] 16 Apr 01:03:00 - Accepted 127.0.0.1:50048
+　　[5000] 16 Apr 01:03:00 - Client closed connection
+　　[5000] 16 Apr 01:03:00 - Accepted 127.0.0.1:50049
+　　[5000] 16 Apr 01:03:00 - Client closed connection
+　　[5000] 16 Apr 01:03:01 - Accepted 127.0.0.1:50050
+　　[5000] 16 Apr 01:03:01 - Client closed connection
+　　[5000] 16 Apr 01:03:01 - Accepted 127.0.0.1:50051
+　　[5000] 16 Apr 01:03:01 - Client closed connection
+　　[5000] 16 Apr 01:03:01 - Accepted 127.0.0.1:50052
+　　[5000] 16 Apr 01:03:01 - Client closed connection
+　　[5000] 16 Apr 01:03:01 - Accepted 127.0.0.1:50053
+　　[5000] 16 Apr 01:03:01 - Client closed connection
+　　[5000] 16 Apr 01:03:01 - Accepted 127.0.0.1:50054
+　　[5000] 16 Apr 01:03:01 - Client closed connection
+　　[5000] 16 Apr 01:03:01 - Accepted 127.0.0.1:50055
+　　[5000] 16 Apr 01:03:01 - Client closed connection
+　　[5000] 16 Apr 01:03:01 - Accepted 127.0.0.1:50056
+　　[5000] 16 Apr 01:03:01 - Client closed connection
+　　[5000] 16 Apr 01:03:01 - Accepted 127.0.0.1:50057
+　　[5000] 16 Apr 01:03:01 - Accepted 127.0.0.1:50058
+　　[5000] 16 Apr 01:03:01 - Accepted 127.0.0.1:50059
+　　[5000] 16 Apr 01:03:01 - Client closed connection
+　　[5000] 16 Apr 01:03:01 - Client closed connection
+　　[5000] 16 Apr 01:03:01 - Accepted 127.0.0.1:50060
+　　[5000] 16 Apr 01:03:01 - Client closed connection
+　　[5000] 16 Apr 01:03:01 - Client closed connection
+　　[5000] 16 Apr 01:03:01 - Accepted 127.0.0.1:50061
+　　[5000] 16 Apr 01:03:01 - Client closed connection
+　　[5000] 16 Apr 01:03:01 - Accepted 127.0.0.1:50062
+　　[5000] 16 Apr 01:03:01 - Client closed connection
+　　[5000] 16 Apr 01:03:01 - Accepted 127.0.0.1:50063
+　　[5000] 16 Apr 01:03:01 - Client closed connection
+　　[5000] 16 Apr 01:03:01 - Accepted 127.0.0.1:50064
+　　[5000] 16 Apr 01:03:01 - Client closed connection
+　　[5000] 16 Apr 01:03:01 - Accepted 127.0.0.1:50065
+　　[5000] 16 Apr 01:03:01 - Client closed connection
+　　[5000] 16 Apr 01:03:01 - Accepted 127.0.0.1:50066
+　　[5000] 16 Apr 01:03:01 - Accepted 127.0.0.1:50067
+　　[5000] 16 Apr 01:03:02 - Client closed connection
+　　[5000] 16 Apr 01:03:02 - Accepted 127.0.0.1:50068
+　　[5000] 16 Apr 01:03:02 - Client closed connection
+　　[5000] 16 Apr 01:03:02 - Accepted 127.0.0.1:50069
+　　[5000] 16 Apr 01:03:02 - Client closed connection
+　　[5000] 16 Apr 01:03:02 - Accepted 127.0.0.1:50070
+　　[5000] 16 Apr 01:03:02 - Client closed connection
+　　[5000] 16 Apr 01:03:02 - Accepted 127.0.0.1:50071
+　　[5000] 16 Apr 01:03:02 - Client closed connection
+　　[5000] 16 Apr 01:03:02 - Client closed connection
+　　[5000] 16 Apr 01:03:02 - Accepted 127.0.0.1:50072
+　　[5000] 16 Apr 01:03:02 - Client closed connection
+　　[5000] 16 Apr 01:03:02 - Accepted 127.0.0.1:50073
+　　[5000] 16 Apr 01:03:02 - Client closed connection
+　　[5000] 16 Apr 01:03:02 - Accepted 127.0.0.1:50074
+　　[5000] 16 Apr 01:03:02 - Client closed connection
+　　[5000] 16 Apr 01:03:02 - Accepted 127.0.0.1:50075
+　　[5000] 16 Apr 01:03:02 - Client closed connection
+　　[5000] 16 Apr 01:03:02 - Accepted 127.0.0.1:50076
+　　[5000] 16 Apr 01:03:02 - Accepted 127.0.0.1:50077
+　　[5000] 16 Apr 01:03:02 - Accepted 127.0.0.1:50078
+　　[5000] 16 Apr 01:03:02 - Accepted 127.0.0.1:50079
+　　[5000] 16 Apr 01:03:02 - Client closed connection
+　　[5000] 16 Apr 01:03:02 - Client closed connection
+　　[5000] 16 Apr 01:03:02 - Accepted 127.0.0.1:50080
+　　[5000] 16 Apr 01:03:02 - Client closed connection
+　　[5000] 16 Apr 01:03:02 - Client closed connection
+　　[5000] 16 Apr 01:03:02 - Client closed connection
+　　[5000] 16 Apr 01:03:02 - Accepted 127.0.0.1:50081
+　　[5000] 16 Apr 01:03:02 - Client closed connection
+　　[5000] 16 Apr 01:03:02 - Accepted 127.0.0.1:50082
+　　[5000] 16 Apr 01:03:02 - Client closed connection
+　　[5000] 16 Apr 01:03:02 - DB 0: 974383 keys (17960 volatile) in 1048576 slots HT.
+　　[5000] 16 Apr 01:03:02 - 0 clients connected (0 slaves), 896659336 bytes in use
+　　[5000] 16 Apr 01:03:02 - Accepted 127.0.0.1:50083
+　　[5000] 16 Apr 01:03:02 - Accepted 127.0.0.1:50084
+　　[5000] 16 Apr 01:03:02 - Accepted 127.0.0.1:50085
+　　[5000] 16 Apr 01:03:02 - Client closed connection
+　　[5000] 16 Apr 01:03:02 - Accepted 127.0.0.1:50086
+　　[5000] 16 Apr 01:03:02 - Client closed connection
+　　[5000] 16 Apr 01:03:02 - Client closed connection
+　　[5000] 16 Apr 01:03:02 - Client closed connection
+　　[5000] 16 Apr 01:03:02 - Accepted 127.0.0.1:50087
+　　[5000] 16 Apr 01:03:02 - Client closed connection
+　　[5000] 16 Apr 01:03:03 - Accepted 127.0.0.1:50088
+　　[5000] 16 Apr 01:03:03 - Client closed connection
+　　[5000] 16 Apr 01:03:03 - Accepted 127.0.0.1:50089
+　　[5000] 16 Apr 01:03:03 - Accepted 127.0.0.1:50090
+　　[5000] 16 Apr 01:03:03 - Accepted 127.0.0.1:50091
+　　[5000] 16 Apr 01:03:03 - Accepted 127.0.0.1:50092
+　　[5000] 16 Apr 01:03:03 - Accepted 127.0.0.1:50093
+　　[5000] 16 Apr 01:03:03 - Client closed connection
+　　[5000] 16 Apr 01:03:03 - Client closed connection
+　　[5000] 16 Apr 01:03:03 - Client closed connection
+　　[5000] 16 Apr 01:03:03 - Client closed connection
+　　[5000] 16 Apr 01:03:03 - Client closed connection
+　　[5000] 16 Apr 01:03:03 - Accepted 127.0.0.1:50094
+　　[5000] 16 Apr 01:03:03 - Client closed connection
+　　[5000] 16 Apr 01:03:03 - Accepted 127.0.0.1:50095
+　　[5000] 16 Apr 01:03:03 - Client closed connection
+　　[5000] 16 Apr 01:03:03 - Accepted 127.0.0.1:50096
+　　[5000] 16 Apr 01:03:03 - Accepted 127.0.0.1:50097
+　　[5000] 16 Apr 01:03:03 - Client closed connection
+　　[5000] 16 Apr 01:03:03 - Accepted 127.0.0.1:50098
+　　[5000] 16 Apr 01:03:03 - Client closed connection
+　　[5000] 16 Apr 01:03:03 - Accepted 127.0.0.1:50099
+　　[5000] 16 Apr 01:03:03 - Client closed connection
+　　[5000] 16 Apr 01:03:03 - Client closed connection
+　　[5000] 16 Apr 01:03:04 - Accepted 127.0.0.1:50100
+　　[5000] 16 Apr 01:03:04 - Accepted 127.0.0.1:50101
+　　[5000] 16 Apr 01:03:04 - Client closed connection
+　　[5000] 16 Apr 01:03:04 - Accepted 127.0.0.1:50102
+　　[5000] 16 Apr 01:03:04 - Client closed connection
+　　[5000] 16 Apr 01:03:04 - Client closed connection
+　　[5000] 16 Apr 01:03:04 - Accepted 127.0.0.1:50103
+　　[5000] 16 Apr 01:03:04 - Client closed connection
+　　[5000] 16 Apr 01:03:04 - Accepted 127.0.0.1:50104
+　　[5000] 16 Apr 01:03:04 - Client closed connection
+　　[5000] 16 Apr 01:03:04 - Accepted 127.0.0.1:50105
+　　[5000] 16 Apr 01:03:04 - Client closed connection
+　　[5000] 16 Apr 01:03:04 - Accepted 127.0.0.1:50106
+　　[5000] 16 Apr 01:03:04 - Accepted 127.0.0.1:50107
+　　[5000] 16 Apr 01:03:04 - Client closed connection
+　　[5000] 16 Apr 01:03:04 - Client closed connection
+　　[5000] 16 Apr 01:03:04 - Accepted 127.0.0.1:50108
+　　[5000] 16 Apr 01:03:04 - Client closed connection
+　　[5000] 16 Apr 01:03:04 - Accepted 127.0.0.1:50109
+　　[5000] 16 Apr 01:03:04 - Client closed connection
+　　[5000] 16 Apr 01:03:04 - Accepted 127.0.0.1:50110
+　　[5000] 16 Apr 01:03:04 - Client closed connection
+　　[5000] 16 Apr 01:03:04 - Accepted 127.0.0.1:50111
+　　[5000] 16 Apr 01:03:04 - Client closed connection
+　　[5000] 16 Apr 01:03:04 - Accepted 127.0.0.1:50112
+　　[5000] 16 Apr 01:03:04 - Client closed connection
+　　[5000] 16 Apr 01:03:04 - Accepted 127.0.0.1:50113
+　　[5000] 16 Apr 01:03:04 - Client closed connection
+　　[5000] 16 Apr 01:03:04 - Accepted 127.0.0.1:50114
+　　[5000] 16 Apr 01:03:04 - Client closed connection
+　　[5000] 16 Apr 01:03:04 - Accepted 127.0.0.1:50115
+　　[5000] 16 Apr 01:03:04 - Client closed connection
+　　[5000] 16 Apr 01:03:04 - Accepted 127.0.0.1:50116
+　　[5000] 16 Apr 01:03:04 - Client closed connection
+　　[5000] 16 Apr 01:03:05 - Accepted 127.0.0.1:50117
+　　[5000] 16 Apr 01:03:05 - Client closed connection
+　　[5000] 16 Apr 01:03:05 - Accepted 127.0.0.1:50118
+　　[5000] 16 Apr 01:03:05 - Client closed connection
+　　[5000] 16 Apr 01:03:05 - Accepted 127.0.0.1:50119
+　　[5000] 16 Apr 01:03:05 - Client closed connection
+　　[5000] 16 Apr 01:03:05 - Accepted 127.0.0.1:50120
+　　[5000] 16 Apr 01:03:05 - Accepted 127.0.0.1:50121
+　　[5000] 16 Apr 01:03:05 - Client closed connection
+　　[5000] 16 Apr 01:03:05 - Accepted 127.0.0.1:50122
+　　[5000] 16 Apr 01:03:05 - Accepted 127.0.0.1:50123
+　　[5000] 16 Apr 01:03:05 - Client closed connection
+　　[5000] 16 Apr 01:03:05 - Client closed connection
+　　[5000] 16 Apr 01:03:05 - Client closed connection
+　　[5000] 16 Apr 01:03:05 - Accepted 127.0.0.1:50124
+　　[5000] 16 Apr 01:03:05 - Client closed connection
+　　[5000] 16 Apr 01:03:05 - Accepted 127.0.0.1:50125
+　　[5000] 16 Apr 01:03:05 - Client closed connection
+　　[5000] 16 Apr 01:03:05 - Accepted 127.0.0.1:50126
+　　[5000] 16 Apr 01:03:05 - Accepted 127.0.0.1:50127
+　　[5000] 16 Apr 01:03:05 - Client closed connection
+　　[5000] 16 Apr 01:03:05 - Client closed connection
+　　[5000] 16 Apr 01:03:05 - Accepted 127.0.0.1:50128
+　　[5000] 16 Apr 01:03:05 - Client closed connection
+　　[5000] 16 Apr 01:03:05 - Accepted 127.0.0.1:50129
+　　[5000] 16 Apr 01:03:05 - Client closed connection
+　　[5000] 16 Apr 01:03:05 - Accepted 127.0.0.1:50130
+　　[5000] 16 Apr 01:03:05 - Client closed connection
+　　[5000] 16 Apr 01:03:05 - Accepted 127.0.0.1:50131
+　　[5000] 16 Apr 01:03:05 - Client closed connection
+　　[5000] 16 Apr 01:03:05 - Accepted 127.0.0.1:50132
+　　[5000] 16 Apr 01:03:05 - Client closed connection
+　　[5000] 16 Apr 01:03:05 - Accepted 127.0.0.1:50133
+　　[5000] 16 Apr 01:03:05 - Client closed connection
+　　[5000] 16 Apr 01:03:05 - Accepted 127.0.0.1:50134
+　　[5000] 16 Apr 01:03:05 - Client closed connection
+　　[5000] 16 Apr 01:03:05 - Accepted 127.0.0.1:50135
+　　[5000] 16 Apr 01:03:05 - Client closed connection
+　　[5000] 16 Apr 01:03:05 - Accepted 127.0.0.1:50136
+　　[5000] 16 Apr 01:03:05 - Client closed connection
+　　[5000] 16 Apr 01:03:05 - Accepted 127.0.0.1:50137
+　　[5000] 16 Apr 01:03:05 - Client closed connection
+　　[5000] 16 Apr 01:03:05 - Accepted 127.0.0.1:50138
+　　[5000] 16 Apr 01:03:05 - Client closed connection
+　　[5000] 16 Apr 01:03:05 - Accepted 127.0.0.1:50139
+　　[5000] 16 Apr 01:03:05 - Client closed connection
+　　[5000] 16 Apr 01:03:05 - Accepted 127.0.0.1:50140
+　　[5000] 16 Apr 01:03:05 - Client closed connection
+　　[5000] 16 Apr 01:03:05 - Accepted 127.0.0.1:50141
+　　[5000] 16 Apr 01:03:05 - Client closed connection
+　　[5000] 16 Apr 01:03:05 - Accepted 127.0.0.1:50142
+　　[5000] 16 Apr 01:03:05 - Client closed connection
+　　[5000] 16 Apr 01:03:05 - Accepted 127.0.0.1:50143
+　　[5000] 16 Apr 01:03:05 - Accepted 127.0.0.1:50144
+　　[5000] 16 Apr 01:03:05 - Client closed connection
+　　[5000] 16 Apr 01:03:05 - Client closed connection
+　　[5000] 16 Apr 01:03:05 - Accepted 127.0.0.1:50145
+　　[5000] 16 Apr 01:03:05 - Client closed connection
+　　[5000] 16 Apr 01:03:05 - Accepted 127.0.0.1:50146
+　　[5000] 16 Apr 01:03:05 - Client closed connection
+　　[5000] 16 Apr 01:03:05 - Accepted 127.0.0.1:50147
+　　[5000] 16 Apr 01:03:05 - Client closed connection
+　　[5000] 16 Apr 01:03:05 - Accepted 127.0.0.1:50148
+　　[5000] 16 Apr 01:03:05 - Client closed connection
+　　[5000] 16 Apr 01:03:05 - Accepted 127.0.0.1:50149
+　　[5000] 16 Apr 01:03:05 - Client closed connection
+　　[5000] 16 Apr 01:03:05 - Accepted 127.0.0.1:50150
+　　[5000] 16 Apr 01:03:05 - Client closed connection
+　　[5000] 16 Apr 01:03:05 - Accepted 127.0.0.1:50151
+　　[5000] 16 Apr 01:03:05 - Client closed connection
+　　[5000] 16 Apr 01:03:06 - Accepted 127.0.0.1:50152
+　　[5000] 16 Apr 01:03:06 - Accepted 127.0.0.1:50153
+　　[5000] 16 Apr 01:03:06 - Client closed connection
+　　[5000] 16 Apr 01:03:06 - Accepted 127.0.0.1:50154
+　　[5000] 16 Apr 01:03:06 - Client closed connection
+　　[5000] 16 Apr 01:03:06 - Client closed connection
+　　[5000] 16 Apr 01:03:06 - Accepted 127.0.0.1:50155
+　　[5000] 16 Apr 01:03:06 - Client closed connection
+　　[5000] 16 Apr 01:03:06 - Accepted 127.0.0.1:50156
+　　[5000] 16 Apr 01:03:06 - Client closed connection
+　　[5000] 16 Apr 01:03:06 - Accepted 127.0.0.1:50157
+　　[5000] 16 Apr 01:03:06 - Client closed connection
+　　[5000] 16 Apr 01:03:06 - Accepted 127.0.0.1:50158
+　　[5000] 16 Apr 01:03:06 - Client closed connection
+　　[5000] 16 Apr 01:03:07 - Accepted 127.0.0.1:50159
+　　[5000] 16 Apr 01:03:07 - Accepted 127.0.0.1:50160
+　　[5000] 16 Apr 01:03:07 - Accepted 127.0.0.1:50162
+　　[5000] 16 Apr 01:03:07 - Accepted 127.0.0.1:50163
+　　[5000] 16 Apr 01:03:07 - Accepted 127.0.0.1:50164
+　　[5000] 16 Apr 01:03:07 - Accepted 127.0.0.1:50165
+　　[5000] 16 Apr 01:03:07 - Client closed connection
+　　[5000] 16 Apr 01:03:07 - Accepted 127.0.0.1:50166
+　　[5000] 16 Apr 01:03:07 - Accepted 127.0.0.1:50167
+　　[5000] 16 Apr 01:03:07 - Accepted 127.0.0.1:50168
+　　[5000] 16 Apr 01:03:07 - Client closed connection
+　　[5000] 16 Apr 01:03:07 - Client closed connection
+　　[5000] 16 Apr 01:03:07 - Accepted 127.0.0.1:50169
+　　[5000] 16 Apr 01:03:07 - Client closed connection
+　　[5000] 16 Apr 01:03:07 - Client closed connection
+　　[5000] 16 Apr 01:03:07 - Client closed connection
+　　[5000] 16 Apr 01:03:07 - Client closed connection
+　　[5000] 16 Apr 01:03:07 - Client closed connection
+　　[5000] 16 Apr 01:03:07 - Client closed connection
+　　[5000] 16 Apr 01:03:07 - Client closed connection
+　　[5000] 16 Apr 01:03:07 - Accepted 127.0.0.1:50170
+　　[5000] 16 Apr 01:03:07 - Client closed connection
+　　[5000] 16 Apr 01:03:07 - Accepted 127.0.0.1:50171
+　　[5000] 16 Apr 01:03:07 - Client closed connection
+　　[5000] 16 Apr 01:03:07 - Accepted 127.0.0.1:50172
+　　[5000] 16 Apr 01:03:07 - Client closed connection
+　　[5000] 16 Apr 01:03:08 - Accepted 127.0.0.1:50173
+　　[5000] 16 Apr 01:03:08 - Client closed connection
+　　[5000] 16 Apr 01:03:08 - Accepted 127.0.0.1:50174
+　　[5000] 16 Apr 01:03:08 - Client closed connection
+　　[5000] 16 Apr 01:03:08 - DB 0: 974381 keys (17955 volatile) in 1048576 slots HT.
+　　[5000] 16 Apr 01:03:08 - 0 clients connected (0 slaves), 896539240 bytes in use
+　　[5000] 16 Apr 01:03:08 - Accepted 127.0.0.1:50175
+　　[5000] 16 Apr 01:03:08 - Client closed connection
+　　[5000] 16 Apr 01:03:08 - Accepted 127.0.0.1:50176
+　　[5000] 16 Apr 01:03:08 - Client closed connection
+　　[5000] 16 Apr 01:03:08 - Accepted 127.0.0.1:50177
+　　[5000] 16 Apr 01:03:08 - Client closed connection
+　　[5000] 16 Apr 01:03:08 - Accepted 127.0.0.1:50178
+　　[5000] 16 Apr 01:03:08 - Client closed connection
+　　[5000] 16 Apr 01:03:09 - Accepted 127.0.0.1:50179
+　　[5000] 16 Apr 01:03:09 - Client closed connection
+　　[5000] 16 Apr 01:03:09 - Accepted 127.0.0.1:50180
+　　[5000] 16 Apr 01:03:09 - Client closed connection
+　　[5000] 16 Apr 01:03:09 - Accepted 127.0.0.1:50181
+　　[5000] 16 Apr 01:03:09 - Accepted 127.0.0.1:50182
+　　[5000] 16 Apr 01:03:09 - Client closed connection
+　　[5000] 16 Apr 01:03:09 - Client closed connection
+　　[5000] 16 Apr 01:03:09 - Accepted 127.0.0.1:50183
+　　[5000] 16 Apr 01:03:09 - Client closed connection
+　　[5000] 16 Apr 01:03:09 - Accepted 127.0.0.1:50184
+　　[5000] 16 Apr 01:03:09 - Client closed connection
+　　[5000] 16 Apr 01:03:09 - Accepted 127.0.0.1:50185
+　　[5000] 16 Apr 01:03:09 - Client closed connection
+　　[5000] 16 Apr 01:03:09 - Accepted 127.0.0.1:50186
+　　[5000] 16 Apr 01:03:09 - Client closed connection
+　　[5000] 16 Apr 01:03:09 - Accepted 127.0.0.1:50187
+　　[5000] 16 Apr 01:03:09 - Client closed connection
+　　[5000] 16 Apr 01:03:09 - Accepted 127.0.0.1:50188
+　　[5000] 16 Apr 01:03:09 - Client closed connection
+　　[5000] 16 Apr 01:03:09 - Accepted 127.0.0.1:50189
+　　[5000] 16 Apr 01:03:09 - Client closed connection
+　　[5000] 16 Apr 01:03:09 - Accepted 127.0.0.1:50190
+　　[5000] 16 Apr 01:03:09 - Client closed connection
+　　[5000] 16 Apr 01:03:09 - Accepted 127.0.0.1:50191
+　　[5000] 16 Apr 01:03:09 - Client closed connection
+　　[5000] 16 Apr 01:03:10 - Accepted 127.0.0.1:50192
+　　[5000] 16 Apr 01:03:10 - Accepted 127.0.0.1:50193
+　　[5000] 16 Apr 01:03:10 - Client closed connection
+　　[5000] 16 Apr 01:03:10 - Client closed connection
+　　[5000] 16 Apr 01:03:10 - Accepted 127.0.0.1:50194
+　　[5000] 16 Apr 01:03:10 - Client closed connection
+　　[5000] 16 Apr 01:03:10 - Accepted 127.0.0.1:50195
+　　[5000] 16 Apr 01:03:10 - Client closed connection
+　　[5000] 16 Apr 01:03:10 - Accepted 127.0.0.1:50196
+　　[5000] 16 Apr 01:03:10 - Client closed connection
+　　[5000] 16 Apr 01:03:10 - Accepted 127.0.0.1:50197
+　　[5000] 16 Apr 01:03:10 - Client closed connection
+　　[5000] 16 Apr 01:03:10 - Accepted 127.0.0.1:50198
+　　[5000] 16 Apr 01:03:10 - Client closed connection
+　　[5000] 16 Apr 01:03:10 - Accepted 127.0.0.1:50199
+　　[5000] 16 Apr 01:03:10 - Client closed connection
+　　[5000] 16 Apr 01:03:10 - Accepted 127.0.0.1:50200
+　　[5000] 16 Apr 01:03:10 - Client closed connection
+　　[5000] 16 Apr 01:03:10 - Accepted 127.0.0.1:50201
+　　[5000] 16 Apr 01:03:10 - Client closed connection
+　　[5000] 16 Apr 01:03:10 - Accepted 127.0.0.1:50202
+　　[5000] 16 Apr 01:03:10 - Accepted 127.0.0.1:50203
+　　[5000] 16 Apr 01:03:10 - Client closed connection
+　　[5000] 16 Apr 01:03:10 - Client closed connection
+　　[5000] 16 Apr 01:03:10 - Accepted 127.0.0.1:50204
+　　[5000] 16 Apr 01:03:10 - Client closed connection
+　　[5000] 16 Apr 01:03:10 - Accepted 127.0.0.1:50205
+　　[5000] 16 Apr 01:03:10 - Client closed connection
+　　[5000] 16 Apr 01:03:10 - Accepted 127.0.0.1:50206
+　　[5000] 16 Apr 01:03:10 - Client closed connection
+　　[5000] 16 Apr 01:03:10 - Accepted 127.0.0.1:50207
+　　[5000] 16 Apr 01:03:10 - Client closed connection
+　　[5000] 16 Apr 01:03:10 - Accepted 127.0.0.1:50208
+　　[5000] 16 Apr 01:03:10 - Client closed connection
+　　[5000] 16 Apr 01:03:10 - Accepted 127.0.0.1:50209
+　　[5000] 16 Apr 01:03:10 - Client closed connection
+　　[5000] 16 Apr 01:03:10 - Accepted 127.0.0.1:50210
+　　[5000] 16 Apr 01:03:10 - Client closed connection
+　　[5000] 16 Apr 01:03:10 - Accepted 127.0.0.1:50211
+　　[5000] 16 Apr 01:03:10 - Client closed connection
+　　[5000] 16 Apr 01:03:10 - Accepted 127.0.0.1:50212
+　　[5000] 16 Apr 01:03:10 - Client closed connection
+　　[5000] 16 Apr 01:03:10 - Accepted 127.0.0.1:50213
+　　[5000] 16 Apr 01:03:11 - Accepted 127.0.0.1:50214
+　　[5000] 16 Apr 01:03:11 - Client closed connection
+　　[5000] 16 Apr 01:03:11 - Client closed connection
+　　[5000] 16 Apr 01:03:11 - Accepted 127.0.0.1:50215
+　　[5000] 16 Apr 01:03:11 - Client closed connection
+　　[5000] 16 Apr 01:03:11 - Accepted 127.0.0.1:50216
+　　[5000] 16 Apr 01:03:11 - Accepted 127.0.0.1:50217
+　　[5000] 16 Apr 01:03:11 - Client closed connection
+　　[5000] 16 Apr 01:03:11 - Client closed connection
+　　[5000] 16 Apr 01:03:11 - Accepted 127.0.0.1:50218
+　　[5000] 16 Apr 01:03:11 - Accepted 127.0.0.1:50219
+　　[5000] 16 Apr 01:03:11 - Client closed connection
+　　[5000] 16 Apr 01:03:11 - Client closed connection
+　　[5000] 16 Apr 01:03:11 - Accepted 127.0.0.1:50220
+　　[5000] 16 Apr 01:03:11 - Client closed connection
+　　[5000] 16 Apr 01:03:11 - Accepted 127.0.0.1:50221
+　　[5000] 16 Apr 01:03:11 - Client closed connection
+　　[5000] 16 Apr 01:03:11 - Accepted 127.0.0.1:50222
+　　[5000] 16 Apr 01:03:11 - Client closed connection
+　　[5000] 16 Apr 01:03:11 - Accepted 127.0.0.1:50223
+　　[5000] 16 Apr 01:03:11 - Accepted 127.0.0.1:50224
+　　[5000] 16 Apr 01:03:11 - Client closed connection
+　　[5000] 16 Apr 01:03:11 - Client closed connection
+　　[5000] 16 Apr 01:03:11 - Accepted 127.0.0.1:50225
+　　[5000] 16 Apr 01:03:11 - Client closed connection
+　　[5000] 16 Apr 01:03
